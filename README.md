@@ -17,7 +17,7 @@ Yelp-Dataset/
 
 ## Key File
 
-**literature_review.html** - Interactive literature review of 35 research papers on Yelp dataset applications.
+**literature_review.md** - Interactive literature review of 35 research papers on Yelp dataset applications.
 
 ## Dataset
 
